@@ -9,6 +9,6 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 - Flexbox
 - Mobile-first workflow
 
-- Live URL - (https://michalmiotla.github.io/First-project-from-frontend-mentor-html-and-css-only/)
+- Live URL - (https://michalmiotla.github.io/frontend-mentor-landing-page/)
 
 - Frontend Mentor - [@michalmiotla](https://www.frontendmentor.io/profile/michalmiotla)
